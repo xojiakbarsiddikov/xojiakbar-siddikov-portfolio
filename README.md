@@ -1,4 +1,4 @@
-# apollo-vue-nextgen
+# xojiakbar-siddikov-portfolio
 
 This template should help get you started developing with Vue 3 in Vite.
 
