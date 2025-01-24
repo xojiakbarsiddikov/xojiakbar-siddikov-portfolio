@@ -5,7 +5,7 @@
 <template>
     <div class="grid">
         <div class="col-12">
-            <div class="card">
+            <div class="card" style="padding-bottom: 0.5rem !important;">
                 <h5><span class="blue-color text-left">IELTS</span>CERTIFICATES</h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-around align-items-center w-full img-wrapper width-images score-down-image">
@@ -44,12 +44,6 @@
     }
     .justify-content-space-around {
         justify-content: space-around;
-    }
-    .col-12 {
-        padding-top: 0 !important;
-    }
-    .card {
-        padding-bottom: 0.5rem !important;
     }
     .text {
         padding: 0 !important;
