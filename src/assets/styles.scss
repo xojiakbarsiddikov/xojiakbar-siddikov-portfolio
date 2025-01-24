@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+
+$gutter: 1rem; //for primeflex grid system
+@import '@/assets/layout/layout.scss';
+
+/* PrimeVue */
+@import 'primevue/resources/primevue.min.css';
+@import 'primeflex/primeflex.scss';
+@import 'primeicons/primeicons.css';
+
+/* Demos */
+@import '@/assets/demo/Demos.scss';
+
+.h-full:hover {
+    transform: scale(1.05,1.09);
+    transition: all 0.3s;
+}
+
+#img_size > span > img {
+    width: 390px;
+    height: 317px;
+}
+
+.topbar-start > nav > ol > li:hover {
+    color: #6366f1;
+}
+
+@media screen and (max-width: 610px) {
+    .img-warp > span > img {
+        width: 158px !important;
+        height: 259px !important;
+    }    
+    .m-2 {
+        margin: 0rem !important;
+    }
+    #img_size > span > img {
+        width: 194px !important;
+        height: 184px !important;
+    }    
+    .p-2 {
+        padding: 1rem 0.5rem !important;
+        margin: 0;
+    }
+    .test-text-wrapper > h5 {
+        font-size: 1rem !important;
+       }
+       .cefr-text-wrapper > h2 {
+           font-size: 1rem !important;
+    }
+}

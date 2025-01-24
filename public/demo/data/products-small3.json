@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"name": "3rd Place🥉",
+			"image": "14.jpg",
+			"fade": "fade-right",
+			"img_size": "img_size"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "15.jpg",
+			"fade": "fade-down",
+			"img_size": "img_size"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "17.jpg",
+			"fade": "fade-left",
+			"img_size": "img_size"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "18.jpg",
+			"fade": "fade-left",
+			"img_size": "img_size"
+		}
+	]
+}
