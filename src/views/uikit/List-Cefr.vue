@@ -5,7 +5,7 @@
 <template>
     <div class="grid">
         <div class="col-12">
-            <div class="card">
+            <div class="card" style="padding-bottom: 0.5rem !important;">
                 <h5>CEFR<span class="blue-color text-left text-right">(Multilevel)</span>CERTIFICATES: <span class="blue-color">B2x3</span></h5>
                     <div class="col-12 p-0">
                         <div class="flex justify-content-space-between align-items-center w-full img-wrapper">
@@ -37,12 +37,6 @@
     }
     .justify-content-space-between {
         justify-content: space-between !important;
-    }
-    .col-12 {
-        padding-top: 0 !important;
-    }
-    .card {
-        padding-bottom: 0.5rem !important;
     }
     .text {
         padding: 0 !important;
