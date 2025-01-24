@@ -60,9 +60,6 @@
     .justify-content-space-around {
         justify-content: space-around;
     }
-    .col-12 {
-        padding-top: 0 !important;
-    }
     .text {
         padding: 0 !important;
         margin: 25px 0 12px 0 !important;
