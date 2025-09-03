@@ -66,7 +66,7 @@ const showProfileSidebar = () => {
                 </li>
                 <li class="topbar-profile">
                     <router-link to="/about-me">
-                        <button type="button" class="p-link" ><img src="/images/mine.png" alt="Profile" /></button>
+                        <button type="button" class="p-link" ><img src="/public/demo/images/mine.png" alt="Profile" /></button>
                     </router-link>
                 </li>
             </ul>
