@@ -44,7 +44,7 @@ const { layoutConfig, contextPath } = useLayout();
     padding-bottom: 12rem !important;
 }
 .background:nth-child(1) {
-    background-image: url('./public/demo/images/working/teaching/teacher-assistant2.jpg');
+    background-image: url('/public/demo/images/working/teaching/teacher-assistant2.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -64,7 +64,7 @@ const { layoutConfig, contextPath } = useLayout();
     color: #1e293b;
 }
 .background:nth-child(2) {
-    background-image: url('./public/demo/images/working/programming.jpg');
+    background-image: url('/public/demo/images/working/programming.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
