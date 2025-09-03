@@ -140,7 +140,7 @@ onMounted(() => {
         </svg>
        <div class="animation-main-wrapper uni-flex teaching-flex-media">
          <div class="font-bold text-2xl z-1 line-1 anim-typewriter1 uni-img1 teaching-media-img" data-aos="zoom-in-right" data-aos-easing="linear" data-aos-duration="600">
-            <img src="/demo/images/working/teaching/speaking-club-logo (1).jpg" alt="speaking-club-logo">
+            <img src="/demo/images/working/teaching/speaking-club-logo2.jpg" alt="speaking-club-logo">
          </div>
           <div class="font-bold text-2xl z-1 line-1 anim-typewriter1 uni-img1 teaching-media-img" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="600"> 
             <img src="/demo/images/working/teaching/adc-logo.jpg" alt="adc-logo">
