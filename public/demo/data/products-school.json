@@ -1,0 +1,44 @@
+{
+	"data": [
+		{
+			"name": "7th Grade (English Subject)",
+			"name2": "5th Grade (3rd Place🥉 in Math Olympiad)",
+			"image": "13.png",
+			"image4": "4.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "6th Grade (1st Place🥇 in Math Olympiad)",
+			"name2": "4th Grade (For Excellent Behavior & Studies)",
+			"image": "12.jpg",
+			"image4": "13.jpg",
+			"fade": "zoom-in-up"
+		},
+		{
+			"name": "KANGAROO Tournament (Math)",
+			"name2": "5th Grade (Accurate Copybook)",
+			"image": "11.jpg",
+			"image4": "5.jpg",
+			"img_size": "img_size",
+			"fade": "fade-left"
+		},
+		{
+			"name": "6th Grade (For Excellent Behavior & Studies)",
+			"name2": "5th Grade (For the Best Aumn Creativity)",
+			"image": "10.jpg",
+			"image4": "6.jpg"
+		},
+		{
+			"name": "5th Grade (For Excellent Behavior & Studies)",
+			"name2": "5th Grade (For Fluent Reading)",
+			"image": "9.jpg",
+			"image4": "7.jpg"
+		},
+		{
+			"name": "5th Grade (For The Fluent Telling of Poem)",
+			"image": "8.jpg",
+			"image4": "2.png",
+			"image3": "13.jpg"
+		}
+	]
+}

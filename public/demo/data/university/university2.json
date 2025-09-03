@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"name": "MARQUETTE UNIVERSITY",
+			"image": "marquette.png",
+			"fade": "fade-right",
+			"logo": "marquette-bg.png",
+			"class": "marquette-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+		{
+			"name": "THOMAS JEFFERSON UNIVERSITY",
+			"image": "thomas-jefferson.png",
+			"fade": "fade-left",
+			"logo": "thomas-jefferson-bg.png",
+			"class": "thomas-jefferson-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+		{
+			"name": "GEORGIA STATE UNIVERSITY",
+			"image": "georgia-state-university.png",
+			"fade": "fade-right",
+			"logo": "georgia-state-university-bg.png",
+			"class": "georgia-state-university-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+			{
+			"name": "KEISER UNIVERSITY",
+			"image": "keiser-university.png",
+			"fade": "fade-left",
+			"logo": "keiser-logo-bg.png",
+			"class": "keiser-logo-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		}
+	]
+}

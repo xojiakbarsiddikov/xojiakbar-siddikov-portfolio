@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"name": "School Website",
+			"link": "https://2-school.netlify.app",
+			"image": "school-site.png",
+			"fade": "fade-down"
+		},
+		{
+			"name": "Acode Education",
+			"link": "https://acode-education.netlify.app",
+			"image": "acode-site.png",
+			"fade": "zoom-in-up"
+		},
+		{
+			"name": "Fajr Education",
+			"link": "https://fajr-education.netlify.app",
+			"image": "fajr-site.png",
+			"fade": "fade-down"
+		},
+		{
+			"name": "Donor Medicine",
+			"link": "https://and-donor.netlify.app/navdonor.uz/index.html",
+			"image": "donor-site.png"
+		},
+		{
+			"name": "Plastic Cards",
+			"link": "https://my-cart-site.netlify.app",
+			"image": "card-site.png"
+		}
+	]
+}

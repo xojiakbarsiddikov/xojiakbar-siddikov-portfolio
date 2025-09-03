@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"name": "WARTBURG COLLEGE",
+			"image": "wartburg.png",
+			"fade": "fade-right",
+			"logo": "wartburg-logo-bg.png",
+			"class": "wartburg-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+		{
+			"name": "ARIZONA STATE UNIVERSITY",
+			"image": "arizona-state.png",
+			"fade": "fade-left",
+			"logo": "arizona-state-bg.avif",
+			"class": "arizona-state-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+		{
+			"name": "UNIVERSITY OF NORTHERN COLORADO",
+			"image": "unc.png",
+			"fade": "fade-right",
+			"logo": "unc-bg.png",
+			"class": "unc-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+			{
+			"name": "AMERICAN UNIVERSITY IN BULGARIA",
+			"image": "bulgaria.png",
+			"fade": "fade-left",
+			"logo": "bulgaria-bg.png",
+			"class": "bulgaria-bg",
+			"country": "bulgaria-country.png",
+			"country_name": "bulgaria"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"name": "Bitcoin Website",
+			"link": "https://angular-btca-site.netlify.app",
+			"image": "bank-site.png",
+			"fade": "fade-down"
+		},
+		{
+			"name": "Porfolio",
+			"link": "https://xojiakbar-portfolio.netlify.app",
+			"image": "portfolio-site.png",
+			"fade": "zoom-in-up"
+		},
+		{
+			"name": "Gas Station",
+			"link": "https://angular-atlant-sites.netlify.app",
+			"image": "gas-site.png",
+			"fade": "fade-down"
+		},
+		{
+			"name": "Cinema Movie",
+			"link": "https://cinima-movie.netlify.app",
+			"image": "cinema-site.png"
+		},
+		{
+			"name": "Expertise",
+			"link": "https://expertise-site.netlify.app",
+			"image": "expertise-site.png"
+		}
+	]
+}

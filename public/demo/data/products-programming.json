@@ -1,0 +1,39 @@
+{
+	"data": [
+		{
+			"name": "Coursera (Introdution to HTML5)",
+			"image": "7.png",
+			"fade": "fade-right"
+		},
+		{
+			"name": "2nd Place🥈 in contest of Programming",
+			"image": "1.jpg",
+			"fade": "zoom-in-up"
+		},
+		{
+			"name": "CS50 (Introduction to Python)",
+			"image": "4.jpg",
+			"fade": "fade-left"
+		},
+		{
+			"name": "freeCodeCamp (JavaScript & Data Structure)",
+			"image": "3.jpg"
+		},
+		{
+			"name": "Ratatype Golden🥇",
+			"image": "2.jpg"
+		},
+		{
+			"name": "Great Learning (Introduction to JavaScript)",
+			"image": "5.png"
+		},
+		{
+			"name": "For the best designed School Website",
+			"image": "13.jpg"
+		},
+		{
+			"name": "Udemy (Bootstrap with HTML, CSS And PHP)",
+			"image": "6.png"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"data": [
+		{
+			"name": "1st Place🥇",
+			"image": "1.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "2.jpg",
+			"fade": "zoom-in-up",
+			"img_size": "img_size"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "5.jpg",
+			"fade": "fade-left",
+			"img_size": "img_size"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "4.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "7.jpg",
+			"img_size": "img_size",
+			"fade": "fade-right"
+		},
+		{
+			"name": "1st Place🥇",
+			"image": "1.jpg",
+			"fade": "fade-down"
+		}
+	]
+}

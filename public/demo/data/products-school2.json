@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"name": "5th Grade (3rd Place🥉 in Math Olympiad)",
+			"image": "4.jpg",
+			"fade": "fade-right"
+		},
+		{
+			"name": "10th Grade (For the best designed School Website)",
+			"image": "13.jpg",
+			"fade": "zoom-in-up",
+			"img_size": "img_size"
+		},
+		{
+			"name": "5th Grade (Accurate Copybook)",
+			"image": "5.jpg",
+			"fade": "fade-left"
+		},
+		{
+			"name": "5th Grade (For the Best Aumn Creativity)",
+			"image": "6.jpg"
+		},
+		{
+			"name": "5th Grade (For Fluent Reading)",
+			"image": "7.jpg"
+		},
+		{
+			"name": "4th Grade (For Excellent Behavior & Studies)",
+			"image": "3.png"
+		},
+		{
+			"name": "1st Grade (Graduation Diploma)",
+			"image": "2.png"
+		},
+		{
+			"name": "2nd Grade (For Excellent Behavior & Studies)",
+			"image": "1.png"
+		}
+	]
+}

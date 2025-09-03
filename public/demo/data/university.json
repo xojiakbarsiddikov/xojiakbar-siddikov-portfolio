@@ -1,0 +1,28 @@
+{
+    "data":[
+         {
+            "itemImageSrc": "demo/images/university/team.jpg",
+            "thumbnailImageSrc": "demo/images/university/team.jpg",
+            "alt": "Description for Image 1",
+            "title": "Title 1"
+        },
+        {
+            "itemImageSrc": "demo/images/university/team3.jpg",
+            "thumbnailImageSrc": "demo/images/university/team3.jpg",
+            "alt": "Description for Image 1",
+            "title": "Title 1"
+        },
+        {
+            "itemImageSrc": "demo/images/university/team2.jpg",
+            "thumbnailImageSrc": "demo/images/university/team2.jpg",
+            "alt": "Description for Image 1",
+            "title": "Title 1"
+        },
+        {
+            "itemImageSrc": "demo/images/university/consulting.jpg",
+            "thumbnailImageSrc": "demo/images/university/consulting.jpg",
+            "alt": "Description for Image 1",
+            "title": "Title 7"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"name": "TMC ACADEMY",
+			"image": "tmc-academy.jpg",
+			"fade": "fade-right",
+			"logo": "tmc-academy-bg.png",
+			"class": "tmc-academy-bg",
+			"country": "singapore.png",
+			"country_name": "singapore"
+		},
+		{
+			"name": "THE UNIVERSITY OF ARIZONA",
+			"image": "uni-arizona.png",
+			"fade": "fade-left",
+			"logo": "uni-arizona-bg.png",
+			"class": "uni-arizona-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+		{
+			"name": "UVA WISE",
+			"image": "uva-wise-ac.png",
+			"fade": "fade-right",
+			"logo": "UVA-Wise-Bg.png",
+			"class": "uva-wise-bg",
+			"country": "united-states-of-america.png",
+			"country_name": "united-states-of-america"
+		},
+			{
+			"name": "SAINT LOUIS UNIVERSITY",
+			"image": "saint-louis.png",
+			"fade": "fade-left",
+			"logo": "Saint-louis-Bg.png",
+			"class": "saint-louis-bg",
+			"country": "spain.png",
+			"country_name": "spain"
+		}
+	]
+}

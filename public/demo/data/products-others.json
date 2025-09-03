@@ -1,0 +1,45 @@
+{
+	"data": [
+		{
+			"name": "Lectera (For Becoming Star on LinkedIn)",
+			"image": "1.png",
+			"fade": "fade-right"
+		},
+		{
+			"name": "YUKSALISH CAMPING",
+			"image": "yuksalish.jpg",
+			"fade": "zoom-in-up"
+		},
+		{
+			"name": "SmallTalk (C1 Advanced)",
+			"image": "2.jpg",
+			"fade": "fade-left"
+		},
+		{
+			"name": "Khan Academy (For Educators)",
+			"image": "4.png",
+			"fade": "fade-right"
+		},
+		{
+			"name": "EF SET (76/100 & C2)",
+			"image": "3.png",
+			"width_class": "width_class"
+		},
+		{
+			"name": "WOLFRAM (Introduction to Wolfram Language)",
+			"image": "7.png"
+		},
+		{
+			"name": "Kahoot (Gold 🥇: Active students)",
+			"image": "5.png"
+		},
+		{
+			"name": "UNICEF (Cash and Voucher Assistance)",
+			"image": "6.png"
+		},
+		{
+			"name": "LinkedIn L (Critical Thinking & Decision-Making)",
+			"image": "8.png"
+		}
+	]
+}
