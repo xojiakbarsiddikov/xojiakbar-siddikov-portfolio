@@ -5,7 +5,7 @@ import AppMenu from './AppMenu.vue';
 <template>
     <div class="layout-sidebar">
         <router-link to="/about-me" class="app-logo" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="600">
-            <img src="images/my-avatar.png" alt="" style="height: 157px;">
+            <img src="/images/my-avatar.png" alt="" style="height: 157px;">
         </router-link>
 
         <div class="layout-menu-container" data-aos="zoom-in-right" data-aos-easing="linear" data-aos-duration="600">
