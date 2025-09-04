@@ -4,7 +4,7 @@ import AOS from "aos";
 import 'aos/dist/aos.css';
 
 const router = createRouter({
-    history: createWebHashHistory(),
+    history: createWebHistory(),
     routes: [
         {
             path: '/',
